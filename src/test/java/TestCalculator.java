@@ -45,4 +45,9 @@ public class TestCalculator {
         assertEquals(calc.getResult(), 5.7, 0.01);
     }
     
+    @Test
+    public void test2NegAddieren(){
+        calc.addition(-2.3, -3.4);
+        assertEquals(calc.getResult(), -5.7, 0.01);
+    }
 }
