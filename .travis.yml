@@ -5,6 +5,6 @@ deploy:
   provider: releases
   api_key:
     secure: 7brH7R9NB5jm+xLTd4aKphbmq45ww0l+7ps0OFSX/5XODM5LjGVpm7sHXLrpmMl+dA31/5dFiz6EtwnQvh5YisHFjIrE/M7I5EjOBVVcjtsGNDp83hWICaMQFiXZERa+qiK+eTH7SNvWTTN3GcvCQDi1iCYsWvcAHVqQ/DyTQMMyQk6Xg7e5uXEUCDf00phdYlazRS6IXwl50Z9v2hqsCudAnXFvAfpcRD1Ewr6fO6xwLLVgVPnZEousV+l1yjNgdlCY8DYhYNJqjaW5/5sSj1cmHHR3L+rJd2znqoHm8okHos+Li7b3iTt+ax/rNTe1kiNLsn9r7Z8Ba43nL8gDhzn1SUdNW+MGynkWIL/x2oTUMcNGzfI26rtAG5XBGcBS4S9UXlEkFI/QLhCYr5ESotSyP1FzoDv54jaaQwKB18q1F2UWOcu8/yhVWK70ysc8gt6Q3I8/HKeup84moQ1wdr/bRIcaEuR8oiv4SXrwRxgbjBo4CMBiv6dlbTWWo8B4rzWH1wFhPnKxvafDv265VsWHWwkcFAdnP0bphgvLgja8WHOz2Su/9fSY+67w9pAX6G6v4xtE+yEAxeBVkyjtV/MFP6VYAp/h/3RctTTFv8vX5u5I3MjshZlssPu8HeB64Kmcz0F7VLNPlBusnMAxdSvFjBdLaMNUEN243GVvplg=
-  file: C:\Work\LL\CalculatorTest\target\CalculatorTest-1.0-SNAPSHOT.jar
+  file: /home/travis/build/lluethi/CalculatorTest/target/CalculatorTest-1.0-SNAPSHOT.jar
   on:
     repo: lluethi/CalculatorTest
